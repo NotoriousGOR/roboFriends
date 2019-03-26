@@ -1,0 +1,20 @@
+{
+  "main.css": "/static/css/main.507c01da.chunk.css",
+  "main.js": "/static/js/main.c27b6dde.chunk.js",
+  "main.js.map": "/static/js/main.c27b6dde.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.c9b5e1e1.chunk.css": "/static/css/2.c9b5e1e1.chunk.css",
+  "static/js/2.060bfd1b.chunk.js": "/static/js/2.060bfd1b.chunk.js",
+  "static/js/2.060bfd1b.chunk.js.map": "/static/js/2.060bfd1b.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.754b301bc356687cc8d7d783cc5d6c21.js": "/precache-manifest.754b301bc356687cc8d7d783cc5d6c21.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.c9b5e1e1.chunk.css.map": "/static/css/2.c9b5e1e1.chunk.css.map",
+  "static/css/main.507c01da.chunk.css.map": "/static/css/main.507c01da.chunk.css.map",
+  "static/media/React-Router.svg": "/static/media/React-Router.e472ffec.svg",
+  "static/media/React.svg": "/static/media/React.5d5d9eef.svg",
+  "static/media/axios-icon.svg": "/static/media/axios-icon.15e02c8f.svg",
+  "static/media/rxjs.svg": "/static/media/rxjs.51ebe24f.svg",
+  "static/media/tachyons.svg": "/static/media/tachyons.2e08044c.svg"
+}
