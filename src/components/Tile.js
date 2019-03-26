@@ -1,5 +1,4 @@
 import React from "react";
-import "svg-inline-loader";
 
 export default props => {
   const { link, title, image, alt, description } = props;
